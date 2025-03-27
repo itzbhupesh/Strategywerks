@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e5e3bbe4-859d-44bc-86b8-aa6981ca16df)
 Trello TODO Board
 
 A simple Trello-style task management app built with React and Bootstrap. Users can create, edit, delete, and move tasks between different status columns.
