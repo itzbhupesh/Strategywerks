@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Strategywerks/static/css/main.79d19d76.css",
+    "main.js": "/Strategywerks/static/js/main.5fa7cc40.js",
+    "static/js/453.f55c5fca.chunk.js": "/Strategywerks/static/js/453.f55c5fca.chunk.js",
+    "index.html": "/Strategywerks/index.html",
+    "main.79d19d76.css.map": "/Strategywerks/static/css/main.79d19d76.css.map",
+    "main.5fa7cc40.js.map": "/Strategywerks/static/js/main.5fa7cc40.js.map",
+    "453.f55c5fca.chunk.js.map": "/Strategywerks/static/js/453.f55c5fca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.5fa7cc40.js"
+  ]
+}
